@@ -112,52 +112,227 @@ Me interesa trabajar en proyectos donde pueda combinar pensamiento analítico, o
 
 ---
 
-## Nivel de dominio
+<div align="center">
 
-> Una vista general de mis herramientas, áreas técnicas y fortalezas profesionales.  
-> Los porcentajes son estimados y los iré actualizando según mi crecimiento.
+## Herramientas y tecnologías
+
+Tecnologías, lenguajes y herramientas que utilizo o estoy fortaleciendo dentro de mi perfil técnico.
+
+</div>
 
 <br>
 
+<div align="center">
+
+<table width="92%">
+<tr>
+<td width="50%" valign="top" align="center">
+
+### Frontend y CMS
+
 <table width="100%">
 <tr>
-<td width="50%" valign="top">
+<td align="center" width="33%">
+<img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript"/>
+<br>
+<strong>JavaScript</strong>
+</td>
 
-###  Desarrollo y datos
+<td align="center" width="33%">
+<img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap"/>
+<br>
+<strong>Bootstrap</strong>
+</td>
 
-<p align="center">
-  <img
-    width="100%"
-    alt="Gráfico horizontal de desarrollo y datos"
-    src="https://quickchart.io/chart?format=png&width=620&height=430&backgroundColor=%230D1117&c=%7B%22type%22%3A%22bar%22%2C%22data%22%3A%7B%22labels%22%3A%5B%22Excel%20%C2%B7%2085%25%22%2C%22Power%20BI%20%C2%B7%2075%25%22%2C%22SQL%20Server%20%C2%B7%2075%25%22%2C%22HTML%20%C2%B7%2070%25%22%2C%22CSS%20%C2%B7%2065%25%22%2C%22PostgreSQL%20%C2%B7%2065%25%22%2C%22JavaScript%20%C2%B7%2060%25%22%5D%2C%22datasets%22%3A%5B%7B%22label%22%3A%22Nivel%22%2C%22data%22%3A%5B85%2C75%2C75%2C70%2C65%2C65%2C60%5D%2C%22backgroundColor%22%3A%5B%22%23FF6B00%22%2C%22%23FF7A1A%22%2C%22%23FF8933%22%2C%22%23FF9750%22%2C%22%23A55B2A%22%2C%22%23B46A38%22%2C%22%23C47A46%22%5D%2C%22borderColor%22%3A%22%23FFD9B3%22%2C%22borderWidth%22%3A1.2%2C%22borderRadius%22%3A10%2C%22barThickness%22%3A18%7D%5D%7D%2C%22options%22%3A%7B%22indexAxis%22%3A%22y%22%2C%22plugins%22%3A%7B%22legend%22%3A%7B%22display%22%3Afalse%7D%2C%22title%22%3A%7B%22display%22%3Atrue%2C%22text%22%3A%22Desarrollo%20y%20datos%22%2C%22color%22%3A%22%23F8FAFC%22%2C%22font%22%3A%7B%22size%22%3A20%2C%22weight%22%3A%22bold%22%7D%7D%7D%2C%22layout%22%3A%7B%22padding%22%3A%7B%22left%22%3A10%2C%22right%22%3A18%2C%22top%22%3A10%2C%22bottom%22%3A10%7D%7D%2C%22scales%22%3A%7B%22x%22%3A%7B%22min%22%3A0%2C%22max%22%3A100%2C%22grid%22%3A%7B%22color%22%3A%22%231F2937%22%7D%2C%22ticks%22%3A%7B%22color%22%3A%22%239CA3AF%22%7D%7D%2C%22y%22%3A%7B%22grid%22%3A%7B%22display%22%3Afalse%7D%2C%22ticks%22%3A%7B%22color%22%3A%22%23F8FAFC%22%2C%22font%22%3A%7B%22size%22%3A12%2C%22weight%22%3A%22bold%22%7D%7D%7D%7D%7D%7D"
-  />
-</p>
+<td align="center" width="33%">
+<img width="50" src="https://img.icons8.com/color/48/wordpress.png" alt="WordPress"/>
+<br>
+<strong>WordPress</strong>
+</td>
+</tr>
+</table>
 
 </td>
 
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="center">
 
-###  Ingeniería aplicada y procesos
+### Backend y programación
 
-<p align="center">
-  <img
-    width="100%"
-    alt="Gráfico horizontal de ingeniería aplicada y procesos"
-    src="https://quickchart.io/chart?format=png&width=620&height=430&backgroundColor=%230D1117&c=%7B%22type%22%3A%22bar%22%2C%22data%22%3A%7B%22labels%22%3A%5B%22Optimizaci%C3%B3n%20%C2%B7%2085%25%22%2C%22Mantenimiento%20%C2%B7%2085%25%22%2C%22Calidad%20%C2%B7%2080%25%22%2C%22Documentaci%C3%B3n%20%C2%B7%2080%25%22%2C%22Sensores%20%C2%B7%2060%25%22%2C%22Prototipos%203D%20%C2%B7%2055%25%22%2C%22Java%20%C2%B7%2050%25%22%2C%22Visi%C3%B3n%20comp.%20%C2%B7%2045%25%22%5D%2C%22datasets%22%3A%5B%7B%22label%22%3A%22Nivel%22%2C%22data%22%3A%5B85%2C85%2C80%2C80%2C60%2C55%2C50%2C45%5D%2C%22backgroundColor%22%3A%5B%22%238C4B1F%22%2C%22%239B5624%22%2C%22%23AA622A%22%2C%22%23B96E2F%22%2C%22%23C87A35%22%2C%22%23D7873A%22%2C%22%23E69340%22%2C%22%23F59F45%22%5D%2C%22borderColor%22%3A%22%23FFD9B3%22%2C%22borderWidth%22%3A1.2%2C%22borderRadius%22%3A10%2C%22barThickness%22%3A18%7D%5D%7D%2C%22options%22%3A%7B%22indexAxis%22%3A%22y%22%2C%22plugins%22%3A%7B%22legend%22%3A%7B%22display%22%3Afalse%7D%2C%22title%22%3A%7B%22display%22%3Atrue%2C%22text%22%3A%22Ingenier%C3%ADa%20aplicada%20y%20procesos%22%2C%22color%22%3A%22%23F8FAFC%22%2C%22font%22%3A%7B%22size%22%3A20%2C%22weight%22%3A%22bold%22%7D%7D%7D%2C%22layout%22%3A%7B%22padding%22%3A%7B%22left%22%3A10%2C%22right%22%3A18%2C%22top%22%3A10%2C%22bottom%22%3A10%7D%7D%2C%22scales%22%3A%7B%22x%22%3A%7B%22min%22%3A0%2C%22max%22%3A100%2C%22grid%22%3A%7B%22color%22%3A%22%231F2937%22%7D%2C%22ticks%22%3A%7B%22color%22%3A%22%239CA3AF%22%7D%7D%2C%22y%22%3A%7B%22grid%22%3A%7B%22display%22%3Afalse%7D%2C%22ticks%22%3A%7B%22color%22%3A%22%23F8FAFC%22%2C%22font%22%3A%7B%22size%22%3A12%2C%22weight%22%3A%22bold%22%7D%7D%7D%7D%7D%7D"
-  />
-</p>
+<table width="100%">
+<tr>
+<td align="center" width="33%">
+<img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#"/>
+<br>
+<strong>C#</strong>
+</td>
+
+<td align="center" width="33%">
+<img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python"/>
+<br>
+<strong>Python</strong>
+</td>
+
+<td align="center" width="33%">
+<img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java"/>
+<br>
+<strong>Java</strong>
+</td>
+</tr>
+</table>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top" align="center">
+
+### Bases de datos
+
+<table width="100%">
+<tr>
+<td align="center" width="20%">
+<img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="SQL"/>
+<br>
+<strong>SQL</strong>
+</td>
+
+<td align="center" width="20%">
+<img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="SQLite"/>
+<br>
+<strong>SQLite</strong>
+</td>
+
+<td align="center" width="20%">
+<img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL"/>
+<br>
+<strong>PostgreSQL</strong>
+</td>
+
+<td align="center" width="20%">
+<img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original.svg" alt="MariaDB"/>
+<br>
+<strong>MariaDB</strong>
+</td>
+
+<td align="center" width="20%">
+<img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB"/>
+<br>
+<strong>MongoDB</strong>
+</td>
+</tr>
+</table>
+
+</td>
+
+<td width="50%" valign="top" align="center">
+
+### Datos, automatización y oficina
+
+<table width="100%">
+<tr>
+<td align="center" width="25%">
+<img width="50" src="https://img.icons8.com/color/48/power-bi.png" alt="Power BI"/>
+<br>
+<strong>Power BI</strong>
+</td>
+
+<td align="center" width="25%">
+<img width="50" src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" alt="Excel"/>
+<br>
+<strong>Excel</strong>
+</td>
+
+<td align="center" width="25%">
+<img width="50" src="https://img.icons8.com/fluency/48/microsoft-office-2019.png" alt="Office"/>
+<br>
+<strong>Office</strong>
+</td>
+
+<td align="center" width="25%">
+<img width="50" src="https://github.com/user-attachments/assets/91927b89-813a-4673-acb2-fc8a35e5e0c2" alt="Power Automate"/>
+<br>
+<strong>Power Automate</strong>
+</td>
+</tr>
+</table>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top" align="center">
+
+### DevOps y control de versiones
+
+<table width="100%">
+<tr>
+<td align="center" width="25%">
+<img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux"/>
+<br>
+<strong>Linux</strong>
+</td>
+
+<td align="center" width="25%">
+<img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker"/>
+<br>
+<strong>Docker</strong>
+</td>
+
+<td align="center" width="25%">
+<img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes"/>
+<br>
+<strong>Kubernetes</strong>
+</td>
+
+<td align="center" width="25%">
+<img width="50" src="https://img.icons8.com/fluency/48/github.png" alt="GitHub"/>
+<br>
+<strong>GitHub</strong>
+</td>
+</tr>
+</table>
+
+</td>
+
+<td width="50%" valign="top" align="center">
+
+### Procesos, calidad y documentación
+
+<table width="100%">
+<tr>
+<td align="center" width="33%">
+<img width="50" src="https://img.icons8.com/color/48/approval--v1.png" alt="ISO"/>
+<br>
+<strong>ISO</strong>
+</td>
+
+<td align="center" width="33%">
+<img width="50" src="https://img.icons8.com/color/48/workflow.png" alt="Procesos"/>
+<br>
+<strong>Procesos</strong>
+</td>
+
+<td align="center" width="33%">
+<img width="50" src="https://img.icons8.com/color/48/document--v1.png" alt="Documentación"/>
+<br>
+<strong>Documentación</strong>
+</td>
+</tr>
+</table>
 
 </td>
 </tr>
 </table>
 
-<br>
+</div>
+
+---
 
 <table width="100%">
 <tr>
 <td width="58%" valign="top">
 
-###  Perfil técnico
+### Perfil técnico
 
 <table width="100%">
 <tr>
@@ -193,7 +368,7 @@ Me interesa trabajar en proyectos donde pueda combinar pensamiento analítico, o
 
 <td width="42%" valign="top">
 
-###  Formación complementaria
+### Formación complementaria
 
 Mi formación complementaria integra áreas técnicas, administrativas y de apoyo profesional, lo que fortalece mi capacidad para comprender proyectos desde diferentes perspectivas.
 
@@ -205,94 +380,6 @@ Mi formación complementaria integra áreas técnicas, administrativas y de apoy
 - Asistente Legal  
 - Asistente en Farmacia  
 - Auditor Interno ISO 9001  
-
-</td>
-</tr>
-</table>
-
----
-
-## Experiencia profesional
-
-<table width="100%">
-<tr>
-<td width="30%" valign="top">
-
-### Intel Corporation  
-**2021 - Actualidad**
-
-</td>
-<td width="70%" valign="top">
-
-**Ingeniería Técnica**
-
-Trabajo en actividades relacionadas con mantenimiento preventivo y correctivo, documentación de procesos, análisis técnico, calidad, seguridad operativa y mejora continua.
-
-**Áreas principales:**
-
-- Mantenimiento preventivo y correctivo de maquinaria.
-- Optimización y documentación de procesos.
-- Coordinación de actividades técnicas.
-- Análisis de productos defectuosos.
-- Implementación de mejoras junto con equipos de calidad.
-- Apoyo a la eficiencia operativa y automatización de procesos.
-
-</td>
-</tr>
-</table>
-
----
-
-<table width="100%">
-<tr>
-<td width="30%" valign="top">
-
-### Smurfit Kappa  
-**2019**
-
-</td>
-<td width="70%" valign="top">
-
-**Ingeniería en Mantenimiento de Calidad**
-
-Participación en actividades de mantenimiento técnico, control de equipos, cumplimiento de procedimientos y apoyo a la continuidad operativa.
-
-**Áreas principales:**
-
-- Mantenimiento preventivo y correctivo.
-- Registro técnico de reparaciones, repuestos y materiales.
-- Control de equipos e instalaciones.
-- Cumplimiento de normas de seguridad.
-- Apoyo en reducción de tiempos de inactividad.
-
-</td>
-</tr>
-</table>
-
----
-
-<table width="100%">
-<tr>
-<td width="30%" valign="top">
-
-### Intel Corporation  
-**2018 - 2019**
-
-</td>
-<td width="70%" valign="top">
-
-**Líder de Proyectos / Práctica Supervisada**
-
-Desarrollo de proyectos orientados a innovación, asistencia tecnológica, formación técnica y soluciones con base en ingeniería.
-
-**Áreas principales:**
-
-- Diseño de prototipos robóticos en 3D.
-- Desarrollo de entornos web con HTML.
-- Integración de sensores.
-- Visión computacional.
-- Soluciones enfocadas en accesibilidad.
-- Capacitación en pensamiento lógico, diseño e innovación.
 
 </td>
 </tr>
@@ -318,6 +405,7 @@ Visualización de información técnica y operativa para facilitar seguimiento, 
 </a>
 
 </td>
+
 <td width="50%" valign="top">
 
 ### Sistema web de gestión
@@ -349,6 +437,7 @@ Estructuración de procedimientos, controles, registros y propuestas de mejora d
 </a>
 
 </td>
+
 <td width="50%" valign="top">
 
 ### Prototipo con sensores
@@ -380,6 +469,7 @@ Apoyo en estructura, análisis, redacción y presentación de trabajos académic
 </a>
 
 </td>
+
 <td width="50%" valign="top">
 
 ### Portafolio personal
@@ -392,102 +482,6 @@ Espacio para integrar proyectos técnicos, visuales, documentación, blogs y mar
 <a href="#">
   <img src="https://img.shields.io/badge/Ver%20proyecto-1e293b?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-
-</td>
-</tr>
-</table>
-
----
-
-## Formación
-
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-
-### Ingeniería en Sistemas  
-**Universidad Politécnica**  
-Estado: En curso
-
-</td>
-
-<td width="50%" valign="top">
-
-### Administración de Empresas  
-### Recursos Humanos  
-### Asistente Legal  
-**Instituto Técnico Británico**
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### Auditor Interno ISO 9001  
-**Udemy**
-
-</td>
-
-<td width="50%" valign="top">
-
-### Electrónica Industrial  
-### Contabilidad  
-**Colegio Técnico Profesional Ulloa**
-
-</td>
-</tr>
-</table>
-
----
-
-## Áreas que estoy fortaleciendo
-
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-
-### Desarrollo tecnológico
-
-- Desarrollo web con HTML, CSS y JavaScript.
-- Bases de datos relacionales.
-- Consultas SQL y organización de información.
-- Integración de herramientas para soluciones digitales.
-
-</td>
-
-<td width="50%" valign="top">
-
-### Datos y automatización
-
-- Power BI para visualización de datos.
-- Excel aplicado al análisis y control de información.
-- Automatización de procesos repetitivos.
-- Mejora continua basada en datos.
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### Documentación técnica
-
-- Estructuración de procedimientos.
-- Registro y control de procesos.
-- Redacción técnica clara y ordenada.
-- Soporte documental para calidad y operación.
-
-</td>
-
-<td width="50%" valign="top">
-
-### Mejora continua
-
-- Análisis de fallas.
-- Optimización de procesos.
-- Identificación de oportunidades de mejora.
-- Enfoque en eficiencia, orden y resultados medibles.
 
 </td>
 </tr>
