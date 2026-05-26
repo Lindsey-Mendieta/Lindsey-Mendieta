@@ -13,7 +13,7 @@ Actualmente fortalezco mi perfil en Ingeniería en Sistemas, desarrollo web, bas
 <br>
 
 <p align="left">
-  <a href="https://github.com/TU_USUARIO_GITHUB" target="_blank">
+  <a href="https://github.com/Lindsey-Mendieta" target="_blank">
     <img width="42" src="https://img.icons8.com/fluency/48/github.png" alt="GitHub"/>
   </a>
   &nbsp;&nbsp;&nbsp;
@@ -495,13 +495,70 @@ Estado: En curso
 
 ---
 
+## Repositorios y colaboración
+
+> Espacio para mostrar el trabajo realizado en repositorios propios y colaborativos.
+
+<br>
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+### Repositorio principal
+
+**Lindsey-Mendieta**
+
+Repositorio base de mi perfil profesional en GitHub, donde presento mi trayectoria, formación, experiencia, tecnologías, proyectos y marca personal.
+
+<br>
+
+<a href="https://github.com/Lindsey-Mendieta/Lindsey-Mendieta">
+  <img src="https://img.shields.io/badge/Ver%20repositorio-F97316?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### Repositorios colaborativos
+
+He trabajado también en repositorios compartidos como parte de prácticas, formación técnica y proyectos colaborativos.
+
+<br>
+
+**Proyecto colaborativo 1**  
+`HTML` · `CSS` · `JavaScript`  
+<br>
+<a href="#">Agregar enlace del repositorio</a>
+
+<br><br>
+
+**Proyecto colaborativo 2**  
+`SQL` · `Bases de datos` · `Documentación`  
+<br>
+<a href="#">Agregar enlace del repositorio</a>
+
+<br><br>
+
+**Proyecto colaborativo 3**  
+`Automatización` · `Procesos` · `Análisis`  
+<br>
+<a href="#">Agregar enlace del repositorio</a>
+
+</td>
+</tr>
+</table>
+
+---
+
 ## GitHub Analytics
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_GITHUB&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=93C5FD&icon_color=FACC15&text_color=E5E7EB" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Lindsey-Mendieta&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F97316&icon_color=FACC15&text_color=E5E7EB" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_GITHUB&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=93C5FD&text_color=E5E7EB" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lindsey-Mendieta&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F97316&text_color=E5E7EB" />
 
 </div>
 
@@ -509,44 +566,15 @@ Estado: En curso
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=TU_USUARIO_GITHUB&bg_color=0D1117&color=E5E7EB&line=93C5FD&point=FACC15&area=true&hide_border=true" width="95%" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Lindsey-Mendieta&theme=dark&hide_border=true&background=0D1117&stroke=F97316&ring=F97316&fire=FACC15&currStreakLabel=F97316" width="90%" />
 
 </div>
 
----
-
-## Contacto
+<br>
 
 <div align="center">
 
-<a href="https://github.com/TU_USUARIO_GITHUB" target="_blank">
-  <img width="42" src="https://img.icons8.com/fluency/48/github.png" alt="GitHub"/>
-</a>
-&nbsp;&nbsp;&nbsp;
-
-<a href="https://www.linkedin.com/in/lindseymendieta" target="_blank">
-  <img width="42" src="https://img.icons8.com/fluency/48/linkedin.png" alt="LinkedIn"/>
-</a>
-&nbsp;&nbsp;&nbsp;
-
-<a href="https://www.instagram.com/TU_USUARIO_INSTAGRAM" target="_blank">
-  <img width="42" src="https://img.icons8.com/fluency/48/instagram-new.png" alt="Instagram"/>
-</a>
-&nbsp;&nbsp;&nbsp;
-
-<a href="https://www.facebook.com/TU_USUARIO_FACEBOOK" target="_blank">
-  <img width="42" src="https://img.icons8.com/fluency/48/facebook-new.png" alt="Facebook"/>
-</a>
-&nbsp;&nbsp;&nbsp;
-
-<a href="https://wa.me/50671433664" target="_blank">
-  <img width="42" src="https://img.icons8.com/color/48/whatsapp--v1.png" alt="WhatsApp"/>
-</a>
-&nbsp;&nbsp;&nbsp;
-
-<a href="mailto:lindsey.mendieta.chavez@gmail.com" target="_blank">
-  <img width="42" src="https://img.icons8.com/fluency/48/gmail-new.png" alt="Email"/>
-</a>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Lindsey-Mendieta&bg_color=0D1117&color=E5E7EB&line=F97316&point=FACC15&area=true&hide_border=true" width="95%" />
 
 </div>
 
