@@ -515,30 +515,21 @@ Repositorio base de mi perfil profesional en GitHub, donde presento mi trayector
 
 <td width="50%" valign="top">
 
-### Repositorios colaborativos
+### Repositorio colaborativo
 
-He trabajado también en repositorios compartidos como parte de prácticas, formación técnica y proyectos colaborativos.
+**Inovatry Solutions Page**
+
+Proyecto colaborativo orientado a la construcción y presentación de una página web para Inovatry Solutions.
 
 <br>
 
-**Proyecto colaborativo 1**  
-`HTML` · `CSS` · `JavaScript`  
-<br>
-<a href="#">Agregar enlace del repositorio</a>
+`HTML` · `CSS` · `JavaScript` · `Frontend` · `Colaboración`
 
 <br><br>
 
-**Proyecto colaborativo 2**  
-`SQL` · `Bases de datos` · `Documentación`  
-<br>
-<a href="#">Agregar enlace del repositorio</a>
-
-<br><br>
-
-**Proyecto colaborativo 3**  
-`Automatización` · `Procesos` · `Análisis`  
-<br>
-<a href="#">Agregar enlace del repositorio</a>
+<a href="https://github.com/Inovatry-Solutions/Inovatry-Solutionspage">
+  <img src="https://img.shields.io/badge/Ver%20repositorio%20colaborativo-F97316?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
 </td>
 </tr>
