@@ -104,6 +104,7 @@ Me interesa trabajar en proyectos donde pueda combinar pensamiento analítico, o
 
 <br>
 
+<sub>Ingeniería, análisis y soluciones tecnológicas en evolución constante.</sub>
 
 </td>
 </tr>
@@ -111,67 +112,99 @@ Me interesa trabajar en proyectos donde pueda combinar pensamiento analítico, o
 
 ---
 
-## Tecnologías y herramientas
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,java,postgres,github,vscode" />
-
-<br><br>
-
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
-<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
-<img src="https://img.shields.io/badge/ISO%209001-334155?style=for-the-badge&logo=checkmarx&logoColor=white" />
-
-</div>
-
----
-
 ## Nivel de dominio
 
-> Estos porcentajes representan mi nivel actual de práctica y crecimiento profesional.
+> Una vista general de mis herramientas, áreas técnicas y fortalezas profesionales.  
+> Los porcentajes son estimados y los iré actualizando según mi crecimiento.
 
-<table>
+<br>
+
+<table width="100%">
 <tr>
 <td width="50%" valign="top">
 
-### Datos y procesos
+### 🧡 Desarrollo y datos
 
-**Excel**  
-<img src="https://progress-bar.dev/85/?scale=100&title=Nivel&width=300&color=217346&suffix=%" />
-
-**Optimización de procesos**  
-<img src="https://progress-bar.dev/85/?scale=100&title=Nivel&width=300&color=64748b&suffix=%" />
-
-**Power BI**  
-<img src="https://progress-bar.dev/75/?scale=100&title=Nivel&width=300&color=F2C811&suffix=%" />
-
-**SQL Server**  
-<img src="https://progress-bar.dev/75/?scale=100&title=Nivel&width=300&color=CC2927&suffix=%" />
-
-**PostgreSQL**  
-<img src="https://progress-bar.dev/65/?scale=100&title=Nivel&width=300&color=4169E1&suffix=%" />
+<p align="center">
+  <img
+    width="100%"
+    alt="Gráfico horizontal de desarrollo y datos"
+    src="https://quickchart.io/chart?format=png&width=620&height=430&backgroundColor=%230D1117&c=%7B%22type%22%3A%22bar%22%2C%22data%22%3A%7B%22labels%22%3A%5B%22Excel%20%C2%B7%2085%25%22%2C%22Power%20BI%20%C2%B7%2075%25%22%2C%22SQL%20Server%20%C2%B7%2075%25%22%2C%22HTML%20%C2%B7%2070%25%22%2C%22CSS%20%C2%B7%2065%25%22%2C%22PostgreSQL%20%C2%B7%2065%25%22%2C%22JavaScript%20%C2%B7%2060%25%22%5D%2C%22datasets%22%3A%5B%7B%22label%22%3A%22Nivel%22%2C%22data%22%3A%5B85%2C75%2C75%2C70%2C65%2C65%2C60%5D%2C%22backgroundColor%22%3A%5B%22%23FF6B00%22%2C%22%23FF7A1A%22%2C%22%23FF8933%22%2C%22%23FF9750%22%2C%22%23A55B2A%22%2C%22%23B46A38%22%2C%22%23C47A46%22%5D%2C%22borderColor%22%3A%22%23FFD9B3%22%2C%22borderWidth%22%3A1.2%2C%22borderRadius%22%3A10%2C%22barThickness%22%3A18%7D%5D%7D%2C%22options%22%3A%7B%22indexAxis%22%3A%22y%22%2C%22plugins%22%3A%7B%22legend%22%3A%7B%22display%22%3Afalse%7D%2C%22title%22%3A%7B%22display%22%3Atrue%2C%22text%22%3A%22Desarrollo%20y%20datos%22%2C%22color%22%3A%22%23F8FAFC%22%2C%22font%22%3A%7B%22size%22%3A20%2C%22weight%22%3A%22bold%22%7D%7D%7D%2C%22layout%22%3A%7B%22padding%22%3A%7B%22left%22%3A10%2C%22right%22%3A18%2C%22top%22%3A10%2C%22bottom%22%3A10%7D%7D%2C%22scales%22%3A%7B%22x%22%3A%7B%22min%22%3A0%2C%22max%22%3A100%2C%22grid%22%3A%7B%22color%22%3A%22%231F2937%22%7D%2C%22ticks%22%3A%7B%22color%22%3A%22%239CA3AF%22%7D%7D%2C%22y%22%3A%7B%22grid%22%3A%7B%22display%22%3Afalse%7D%2C%22ticks%22%3A%7B%22color%22%3A%22%23F8FAFC%22%2C%22font%22%3A%7B%22size%22%3A12%2C%22weight%22%3A%22bold%22%7D%7D%7D%7D%7D%7D"
+  />
+</p>
 
 </td>
+
 <td width="50%" valign="top">
 
-### Desarrollo e ingeniería
+### 🤎 Ingeniería aplicada y procesos
 
-**HTML**  
-<img src="https://progress-bar.dev/70/?scale=100&title=Nivel&width=300&color=E34F26&suffix=%" />
+<p align="center">
+  <img
+    width="100%"
+    alt="Gráfico horizontal de ingeniería aplicada y procesos"
+    src="https://quickchart.io/chart?format=png&width=620&height=430&backgroundColor=%230D1117&c=%7B%22type%22%3A%22bar%22%2C%22data%22%3A%7B%22labels%22%3A%5B%22Optimizaci%C3%B3n%20%C2%B7%2085%25%22%2C%22Mantenimiento%20%C2%B7%2085%25%22%2C%22Calidad%20%C2%B7%2080%25%22%2C%22Documentaci%C3%B3n%20%C2%B7%2080%25%22%2C%22Sensores%20%C2%B7%2060%25%22%2C%22Prototipos%203D%20%C2%B7%2055%25%22%2C%22Java%20%C2%B7%2050%25%22%2C%22Visi%C3%B3n%20comp.%20%C2%B7%2045%25%22%5D%2C%22datasets%22%3A%5B%7B%22label%22%3A%22Nivel%22%2C%22data%22%3A%5B85%2C85%2C80%2C80%2C60%2C55%2C50%2C45%5D%2C%22backgroundColor%22%3A%5B%22%238C4B1F%22%2C%22%239B5624%22%2C%22%23AA622A%22%2C%22%23B96E2F%22%2C%22%23C87A35%22%2C%22%23D7873A%22%2C%22%23E69340%22%2C%22%23F59F45%22%5D%2C%22borderColor%22%3A%22%23FFD9B3%22%2C%22borderWidth%22%3A1.2%2C%22borderRadius%22%3A10%2C%22barThickness%22%3A18%7D%5D%7D%2C%22options%22%3A%7B%22indexAxis%22%3A%22y%22%2C%22plugins%22%3A%7B%22legend%22%3A%7B%22display%22%3Afalse%7D%2C%22title%22%3A%7B%22display%22%3Atrue%2C%22text%22%3A%22Ingenier%C3%ADa%20aplicada%20y%20procesos%22%2C%22color%22%3A%22%23F8FAFC%22%2C%22font%22%3A%7B%22size%22%3A20%2C%22weight%22%3A%22bold%22%7D%7D%7D%2C%22layout%22%3A%7B%22padding%22%3A%7B%22left%22%3A10%2C%22right%22%3A18%2C%22top%22%3A10%2C%22bottom%22%3A10%7D%7D%2C%22scales%22%3A%7B%22x%22%3A%7B%22min%22%3A0%2C%22max%22%3A100%2C%22grid%22%3A%7B%22color%22%3A%22%231F2937%22%7D%2C%22ticks%22%3A%7B%22color%22%3A%22%239CA3AF%22%7D%7D%2C%22y%22%3A%7B%22grid%22%3A%7B%22display%22%3Afalse%7D%2C%22ticks%22%3A%7B%22color%22%3A%22%23F8FAFC%22%2C%22font%22%3A%7B%22size%22%3A12%2C%22weight%22%3A%22bold%22%7D%7D%7D%7D%7D%7D"
+  />
+</p>
 
-**CSS**  
-<img src="https://progress-bar.dev/65/?scale=100&title=Nivel&width=300&color=1572B6&suffix=%" />
+</td>
+</tr>
+</table>
 
-**JavaScript**  
-<img src="https://progress-bar.dev/60/?scale=100&title=Nivel&width=300&color=F7DF1E&suffix=%" />
+<br>
 
-**Integración de sensores**  
-<img src="https://progress-bar.dev/60/?scale=100&title=Nivel&width=300&color=7C3AED&suffix=%" />
+<table width="100%">
+<tr>
+<td width="58%" valign="top">
 
-**Java**  
-<img src="https://progress-bar.dev/50/?scale=100&title=Nivel&width=300&color=007396&suffix=%" />
+### 🧠 Perfil técnico
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+#### Desarrollo y datos
+
+- HTML / CSS  
+- JavaScript  
+- SQL Server  
+- PostgreSQL  
+- Power BI  
+- Excel  
+
+</td>
+
+<td width="50%" valign="top">
+
+#### Ingeniería y mejora continua
+
+- Mantenimiento técnico  
+- Optimización de procesos  
+- Calidad operativa  
+- Integración de sensores  
+- Prototipado 3D  
+- Documentación técnica  
+
+</td>
+</tr>
+</table>
+
+</td>
+
+<td width="42%" valign="top">
+
+### 🎓 Formación complementaria
+
+Mi formación complementaria integra áreas técnicas, administrativas y de apoyo profesional, lo que fortalece mi capacidad para comprender proyectos desde diferentes perspectivas.
+
+- Electrónica Industrial  
+- Contabilidad  
+- Administración de Empresas  
+- Coaching  
+- Recursos Humanos  
+- Asistente Legal  
+- Asistente en Farmacia  
+- Auditor Interno ISO 9001  
 
 </td>
 </tr>
@@ -181,7 +214,7 @@ Me interesa trabajar en proyectos donde pueda combinar pensamiento analítico, o
 
 ## Experiencia profesional
 
-<table>
+<table width="100%">
 <tr>
 <td width="30%" valign="top">
 
@@ -210,7 +243,7 @@ Trabajo en actividades relacionadas con mantenimiento preventivo y correctivo, d
 
 ---
 
-<table>
+<table width="100%">
 <tr>
 <td width="30%" valign="top">
 
@@ -238,7 +271,7 @@ Participación en actividades de mantenimiento técnico, control de equipos, cum
 
 ---
 
-<table>
+<table width="100%">
 <tr>
 <td width="30%" valign="top">
 
@@ -269,7 +302,7 @@ Desarrollo de proyectos orientados a innovación, asistencia tecnológica, forma
 
 ## Proyectos destacados
 
-<table>
+<table width="100%">
 <tr>
 <td width="50%" valign="top">
 
@@ -368,32 +401,39 @@ Espacio para integrar proyectos técnicos, visuales, documentación, blogs y mar
 
 ## Formación
 
-<table>
+<table width="100%">
 <tr>
 <td width="50%" valign="top">
 
-**Ingeniería en Sistemas**  
-Universidad Politécnica · En curso
+### Ingeniería en Sistemas  
+**Universidad Politécnica**  
+Estado: En curso
 
 </td>
+
 <td width="50%" valign="top">
 
-**Administración de Empresas**  
-Instituto Técnico Británico
+### Administración de Empresas  
+### Recursos Humanos  
+### Asistente Legal  
+**Instituto Técnico Británico**
 
 </td>
 </tr>
+
 <tr>
 <td width="50%" valign="top">
 
-**Auditor Interno ISO 9001**  
-Udemy
+### Auditor Interno ISO 9001  
+**Udemy**
 
 </td>
+
 <td width="50%" valign="top">
 
-**Electrónica Industrial**  
-Colegio Técnico Profesional Ulloa
+### Electrónica Industrial  
+### Contabilidad  
+**Colegio Técnico Profesional Ulloa**
 
 </td>
 </tr>
@@ -403,16 +443,55 @@ Colegio Técnico Profesional Ulloa
 
 ## Áreas que estoy fortaleciendo
 
-<div align="center">
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
 
-<img src="https://img.shields.io/badge/Desarrollo%20Web-0f172a?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Bases%20de%20Datos-1e293b?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Power%20BI-334155?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Automatización-475569?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Documentación%20Técnica-64748b?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Mejora%20Continua-0f766e?style=for-the-badge" />
+### Desarrollo tecnológico
 
-</div>
+- Desarrollo web con HTML, CSS y JavaScript.
+- Bases de datos relacionales.
+- Consultas SQL y organización de información.
+- Integración de herramientas para soluciones digitales.
+
+</td>
+
+<td width="50%" valign="top">
+
+### Datos y automatización
+
+- Power BI para visualización de datos.
+- Excel aplicado al análisis y control de información.
+- Automatización de procesos repetitivos.
+- Mejora continua basada en datos.
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### Documentación técnica
+
+- Estructuración de procedimientos.
+- Registro y control de procesos.
+- Redacción técnica clara y ordenada.
+- Soporte documental para calidad y operación.
+
+</td>
+
+<td width="50%" valign="top">
+
+### Mejora continua
+
+- Análisis de fallas.
+- Optimización de procesos.
+- Identificación de oportunidades de mejora.
+- Enfoque en eficiencia, orden y resultados medibles.
+
+</td>
+</tr>
+</table>
 
 ---
 
