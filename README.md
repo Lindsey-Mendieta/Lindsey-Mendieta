@@ -18,22 +18,22 @@ Actualmente fortalezco mi perfil en Ingeniería en Sistemas, desarrollo web, bas
   </a>
   &nbsp;&nbsp;&nbsp;
 
-  <a href="https://www.linkedin.com/in/lindseymendieta" target="_blank">
+  <a href="https://www.linkedin.com/in/lindseymendieta?utm_source=share_via&utm_content=profile&utm_medium=member_android" target="_blank">
     <img width="42" src="https://img.icons8.com/fluency/48/linkedin.png" alt="LinkedIn"/>
   </a>
   &nbsp;&nbsp;&nbsp;
 
-  <a href="https://www.instagram.com/TU_USUARIO_INSTAGRAM" target="_blank">
+  <a href="https://www.instagram.com/lindseymendieta?igsh=djA5bm5zam90cDVv" target="_blank">
     <img width="42" src="https://img.icons8.com/fluency/48/instagram-new.png" alt="Instagram"/>
   </a>
   &nbsp;&nbsp;&nbsp;
 
-  <a href="https://www.facebook.com/TU_USUARIO_FACEBOOK" target="_blank">
+  <a href="https://www.facebook.com/share/1MST5AJszW/" target="_blank">
     <img width="42" src="https://img.icons8.com/fluency/48/facebook-new.png" alt="Facebook"/>
   </a>
   &nbsp;&nbsp;&nbsp;
 
-  <a href="https://wa.me/50671433664" target="_blank">
+  <a href="https://wa.me/qr/LKCZQ5OTAW4RC1" target="_blank">
     <img width="42" src="https://img.icons8.com/color/48/whatsapp--v1.png" alt="WhatsApp"/>
   </a>
   &nbsp;&nbsp;&nbsp;
@@ -123,7 +123,7 @@ Me interesa trabajar en proyectos donde pueda combinar pensamiento analítico, o
 <tr>
 <td width="50%" valign="top">
 
-### 🧡 Desarrollo y datos
+###  Desarrollo y datos
 
 <p align="center">
   <img
@@ -137,7 +137,7 @@ Me interesa trabajar en proyectos donde pueda combinar pensamiento analítico, o
 
 <td width="50%" valign="top">
 
-### 🤎 Ingeniería aplicada y procesos
+###  Ingeniería aplicada y procesos
 
 <p align="center">
   <img
@@ -157,7 +157,7 @@ Me interesa trabajar en proyectos donde pueda combinar pensamiento analítico, o
 <tr>
 <td width="58%" valign="top">
 
-### 🧠 Perfil técnico
+###  Perfil técnico
 
 <table width="100%">
 <tr>
@@ -193,7 +193,7 @@ Me interesa trabajar en proyectos donde pueda combinar pensamiento analítico, o
 
 <td width="42%" valign="top">
 
-### 🎓 Formación complementaria
+###  Formación complementaria
 
 Mi formación complementaria integra áreas técnicas, administrativas y de apoyo profesional, lo que fortalece mi capacidad para comprender proyectos desde diferentes perspectivas.
 
