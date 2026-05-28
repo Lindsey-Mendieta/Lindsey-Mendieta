@@ -1,0 +1,40 @@
+settings:
+  username: "Lindsey-Mendieta"
+  commit_msg: "⚡ Actualizar actividad reciente del README"
+  max_lines: 6
+  readme_file: "./README.md"
+
+  disabled_events:
+    - "comments"
+
+  url_text: "{REPO}{ID}"
+
+  date:
+    timezone: "America/Costa_Rica"
+    text: "Última actualización automática: {DATE}"
+    format: "dd/mm/yyyy, h:MM TT"
+
+  commit_name: "linmc-readme-bot"
+  commit_email: "41898282+github-actions[bot]@users.noreply.github.com"
+
+  line_prefix: "{NUM}. "
+
+  ignored_repos:
+    - "Lindsey-Mendieta/Lindsey-Mendieta"
+
+messages:
+  comments: "Comentó en {ID} dentro de {REPO}"
+  push: "Subió {AMOUNT} commit(s) a {REPO}"
+  issue_opened: "Abrió un issue {ID} en {REPO}"
+  issue_closed: "Cerró un issue {ID} en {REPO}"
+  pr_opened: "Abrió un pull request {ID} en {REPO}"
+  pr_closed: "Cerró un pull request {ID} en {REPO}"
+  pr_merged: "Fusionó un pull request {ID} en {REPO}"
+  create_repo: "Creó el repositorio {REPO}"
+  fork_repo: "Hizo fork de {FORK} desde {REPO}"
+  wiki_create: "Creó una página wiki {WIKI} en {REPO}"
+  added_member: "Se integró como colaboradora en {REPO}"
+  changes_approved: "Aprobó cambios en {ID} dentro de {REPO}"
+  changes_requested: "Solicitó cambios en {ID} dentro de {REPO}"
+  new_release: "Publicó una nueva versión {ID} en {REPO}"
+  new_star: "Destacó con estrella {REPO}"
