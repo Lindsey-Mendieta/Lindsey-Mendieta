@@ -541,36 +541,26 @@ Proyecto colaborativo orientado a la construcción y presentación de una págin
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Lindsey-Mendieta&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F97316&icon_color=FACC15&text_color=E5E7EB" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Lindsey-Mendieta&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F97316&icon_color=FACC15&text_color=E5E7EB&cache_seconds=21600" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lindsey-Mendieta&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F97316&text_color=E5E7EB" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lindsey-Mendieta&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F97316&text_color=E5E7EB&cache_seconds=21600" />
 
-</div>
+<br><br>
 
-<br>
+<img width="90%" src="https://github-readme-streak-stats.herokuapp.com?user=Lindsey-Mendieta&theme=dark&hide_border=true&background=0D1117&stroke=F97316&ring=F97316&fire=FACC15&currStreakLabel=F97316" />
 
-<div align="center">
+<br><br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Lindsey-Mendieta&theme=dark&hide_border=true&background=0D1117&stroke=F97316&ring=F97316&fire=FACC15&currStreakLabel=F97316" width="90%" />
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Lindsey-Mendieta&bg_color=0D1117&color=E5E7EB&line=F97316&point=FACC15&area=true&hide_border=true" width="95%" />
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Lindsey-Mendieta&bg_color=0D1117&color=E5E7EB&line=F97316&point=FACC15&area=true&hide_border=true" />
 
 </div>
 
 ---
 
-<div align="center">
+## Actividad reciente
 
-### “La tecnología tiene más valor cuando ayuda a ordenar procesos, resolver problemas y crear resultados medibles.”
-
-<br>
-
+START_SECTION:activity
+END_SECTION:activity
 **Gracias por visitar mi perfil.**
 
 <br>
